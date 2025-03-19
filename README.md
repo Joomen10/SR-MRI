@@ -1,6 +1,5 @@
 # SR-MRI
 
-# SR-MRI
 
 This repository contains code and resources for a **super-resolution MRI** project using a 2D U-Net baseline. The primary goal is to enhance the resolution of MRI scans by reconstructing high-quality 2D slices, which can then be reassembled into isotropic 3D volumes.
 
